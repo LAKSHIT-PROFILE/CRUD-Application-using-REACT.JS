@@ -1,2 +1,1 @@
-# CRUD-Application-using-REACT.JS
-The CRUD (Create, Read, Update, Delete) application allows users to manage a list of user profiles. Each user profile consists of a name and an email address. The application is designed to be user-friendly by using react js
+This Python-based note-taking application allows users to manage their notes through a simple command-line interface. The application includes features to add, view, and delete notes.
